@@ -1,0 +1,8 @@
+{
+  "body": "{\"klijent\":\"dusan\",\"kontakt\":\"tel 1234\",\"uredjaj\":\"samsung 42\",\"napomena\":\"hello world\",\"attachment\":\"hello.jpg\"}",
+  "requestContext": {
+    "identity": {
+      "cognitoIdentityId": "USER-SUB-1234"
+    }
+  }
+}

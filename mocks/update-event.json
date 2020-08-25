@@ -1,0 +1,11 @@
+{
+  "body": "{\"klijent\":\"milan\",\"kontakt\":\"tel 0000\",\"uredjaj\":\"lg 32\",\"napomena\":\"new world\",\"attachment\":\"new.jpg\"}",
+  "pathParameters": {
+    "id": "d9210050-e68c-11ea-85f8-3560d971829b"
+  },
+  "requestContext": {
+    "identity": {
+      "cognitoIdentityId": "USER-SUB-1234"
+    }
+  }
+}
